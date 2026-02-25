@@ -1,0 +1,5 @@
+{
+  "name": "AI Personal Trainer",
+  "description": "Gere planos de treino personalizados baseados em seus objetivos, nível e restrições usando IA.",
+  "requestFramePermissions": []
+}
